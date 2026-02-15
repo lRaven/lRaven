@@ -1,4 +1,4 @@
-# Hi there 👋 I'm a Frontend developer
+# Hi 👋
 
 
 ## Languages and Tools:
